@@ -24,8 +24,10 @@ shell with all gui propmpts in Debian/Ubuntu turned off.
 ###[Props][3]
 
 * Shell manifests modified/simplified from this [gist][4]
+* Apache2 Vhost easy creation from this [repo][5]
 
 [1]: http://vagrantup.com/
 [2]: https://www.virtualbox.org/
 [3]: http://www.urbandictionary.com/define.php?term=props
 [4]: https://gist.github.com/3080128
+[5]: https://github.com/domichal/VirtualHostTool
