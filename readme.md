@@ -6,7 +6,7 @@ in production environments...plus php is kinda bizarre and Vagrant is
 brilliant
 
 * PHP
-* Pear
+* Composer
 * Apache
 * Mysql
 * Git
